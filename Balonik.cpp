@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    logowanie();
+
     //INICJACJA BALONIKOW
     balonik czerwony("czerwony");
     balonik zielony("zielony");

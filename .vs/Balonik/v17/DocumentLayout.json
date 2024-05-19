@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Balonik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|solutionrelative:klasybalonikowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\Balonik\\Balonik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|solutionrelative:Balonik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|solutionrelative:klasybalonikowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\ConsoleApplication2\\Balonik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|solutionrelative:Balonik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D22CEA2-3F95-4187-B072-45ACA30C80D1}|ConsoleApplication2.vcxproj|solutionrelative:klasybalonikowe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "klasybalonikowe.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.h",
               "RelativeDocumentMoniker": "klasybalonikowe.h",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.h",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.h",
               "RelativeToolTip": "klasybalonikowe.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-20T12:04:59.315Z",
               "IsPinned": true,
@@ -42,27 +42,29 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "klasybalonikowe.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.cpp",
               "RelativeDocumentMoniker": "klasybalonikowe.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\klasybalonikowe.cpp*",
-              "RelativeToolTip": "klasybalonikowe.cpp*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Balonik\\klasybalonikowe.cpp",
+              "RelativeToolTip": "klasybalonikowe.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-20T12:26:27.932Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Balonik.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\Balonik.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Balonik\\Balonik.cpp",
               "RelativeDocumentMoniker": "Balonik.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\ConsoleApplication2\\Balonik.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Balonik\\Balonik.cpp",
               "RelativeToolTip": "Balonik.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-20T11:58:52.968Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

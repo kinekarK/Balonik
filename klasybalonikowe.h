@@ -2,6 +2,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
+#include <fstream>
 using namespace std;
 
 class balonik
@@ -20,3 +21,4 @@ public:
 };	
 
 void pompuj(balonik& Balonik, float powierzchnia_powietrza);
+void logowanie();
